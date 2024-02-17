@@ -1,0 +1,4 @@
+eportela/itemtracker/ItemTracker.class
+eportela/itemtracker/DatabaseManager.class
+eportela/itemtracker/MessageSender.class
+eportela/itemtracker/TrackItemCommand.class

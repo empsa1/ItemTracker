@@ -1,0 +1,11 @@
+name: ItemTracker
+version: '${project.version}'
+main: eportela.itemtracker.ItemTracker
+api-version: '1.16'
+authors: [eportela]
+description: plugin to track specific items according to their NBTData
+website: https://github.com/empsa1
+commands:
+  trackItem:
+    description: Tracks an item
+    usage: /trackItem
